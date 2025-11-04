@@ -6,6 +6,12 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/
 #EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/ITV1_logo_2022.svg" group-title="UK Freeview",ITV1
+https://itv1-live-hls-uk.cdn.itv.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ITV2_logo_2022.svg" group-title="UK Freeview",ITV2
+https://itv2-live-hls-uk.cdn.itv.com/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="4" tvg-id="Channel4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch4-epg.png" group-title="General",Channel 4
 http://176.65.146.105:8011/play/a07w/index.m3u8
 
